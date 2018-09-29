@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3532,7 +3532,7 @@
     },
     "page8.html": {
       "settings": {
-        "title": "HOME 2",
+        "title": "HOME ",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
